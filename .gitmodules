@@ -1,0 +1,6 @@
+[submodule "lib/Maixduino_SPIFFS"]
+	path = lib/Maixduino_SPIFFS
+	url = https://github.com/fukuen/Maixduino_SPIFFS.git
+[submodule "lib/Maixduino_Commons"]
+	path = lib/Maixduino_Commons
+	url = https://github.com/fukuen/Maixduino_Commons.git
